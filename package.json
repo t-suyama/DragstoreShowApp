@@ -1,0 +1,23 @@
+{
+  "name": "dragstore-show-app",
+  "version": "1.0.0",
+  "description": "ドラッグストア用QRコード読み込みアプリ",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "qr",
+    "qrcode",
+    "scanner",
+    "jsqr",
+    "dragstore"
+  ],
+  "author": "t-suyama",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-suyama/DragstoreShowApp.git"
+  }
+}
